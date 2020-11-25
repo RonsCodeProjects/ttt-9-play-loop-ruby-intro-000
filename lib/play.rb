@@ -39,6 +39,9 @@ end
 
 def play(board)
   
-  until 
+  until moves == 9
+
+
+
   
 end
